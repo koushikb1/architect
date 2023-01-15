@@ -21,7 +21,7 @@
 
 .logo {
     font-weight: 500px;
-    font-size: 30px
+    font-size: 30px;
 }
 
 .container {
@@ -202,7 +202,4 @@ li {
     margin-left: 100px;
     margin-right: 100px;
     background-color: #FFF4E7;
-}
-@media screen and {
-    
 }
