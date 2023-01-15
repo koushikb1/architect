@@ -1,0 +1,208 @@
+.primary-btn {
+    width: 150px;
+    height: 50px;
+    color: white;
+    border-radius: 5px;
+    background-color: #FF900E;
+    border-style: none;
+}
+.banner-img {
+    width: 1200px;
+    margin-left: 30px;
+    
+}
+
+.banner {
+    width: 100%;
+    background-color: #FFF4E7;
+    padding: 50px;
+
+}
+
+.logo {
+    font-weight: 500px;
+    font-size: 30px
+}
+
+.container {
+
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 110px;
+}
+nav a{
+    text-decoration: none;
+    color: #131313;
+}
+
+li {
+
+    list-style: none;
+    display: inline;
+    margin-left: 20px;
+
+}
+
+
+
+.title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 64px;
+    margin: 0 350px;
+    margin-bottom: 0;
+}
+
+.description {
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    margin: 0 300px;
+    margin-bottom: 30px;
+}
+
+.img {
+    width: 1440px;
+    height: 700px;
+}
+
+/* banner info ---------
+---------------------- */
+
+.team img {
+    width: 250px;
+    height: 250px;
+}
+
+.team {
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+
+.team-area {
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-top: 85px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.title-area {
+    margin-top: 90px;
+    margin-left: 70px;
+    padding-right: 280px;
+    font-weight: 500px;
+    font-size: 40px;
+}
+
+.title-h {
+    color: #727272;
+
+}
+
+.color {
+    color: #FF900E;
+}
+
+.title-description {
+    color: #727272;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+/* ==================
+ Future you will loves and enjoy 
+ ========================*/
+.container-future{
+    display: flex;
+    justify-content: space-between;
+}
+.img-future{
+    margin-left: 100px;
+    width: 400px;
+
+}
+
+
+
+
+
+
+
+
+/* fact area 
+=========================*/
+
+.title-some-fact {
+    margin-left: 90px;
+    font-weight: 700px;
+    font-size: 45px;
+
+}
+
+.fact-sub {
+    margin-left: 90px;
+    color: #727272;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 100px;
+
+}
+
+/* conainer of reword===================
+============================= */
+
+.main-con {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-con {
+    padding: 10px 50px;
+    text-align: center;
+    border: 2px solid #FF900E;
+    border-radius: 5px;
+}
+
+/* footer area
+======================== */
+.spons {
+    text-align: center;
+}
+
+.spons-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.spons-des {
+    color: #727272;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+.spons-img img{
+
+   width: 100px;
+   margin-left: 200px;
+
+}
+.copy-right{
+    margin-bottom: 50px;
+    padding: 20px 300px;
+    font-size: 15px;
+    text-align: center;
+    color: #727272;
+    margin-top: 120px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #FFF4E7;
+}
+@media screen and {
+    
+}
